@@ -1,6 +1,6 @@
 
 
-![Main Background](assets/mainBg.gif)
+![Main Background](assets/mainBg2.gif)
 
 ## About Me
 - 🔭 I’m currently working on **3D websites**.
