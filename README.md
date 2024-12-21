@@ -16,7 +16,7 @@
 <table>
   <tr>
     <td>
-      <img src="assets/pixel-art.gif" align="left" height="" width="250" />  
+      <img src="assets/chillguy.gif" align="left" height="" width="250" />  
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=tinucharly&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
